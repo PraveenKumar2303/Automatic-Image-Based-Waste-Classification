@@ -1,0 +1,8 @@
+numpy          --> Handles numerical operations, arrays, and matrices.
+matplotlib     --> Visualization of training results.
+tensorflow     --> Deep learning framework for CNN model training.
+keras          --> High-level API for TensorFlow (used for model building).
+streamlit      --> Web application framework for deployment.
+Pillow         --> Image processing (used for image resizing).
+opencv-python  --> OpenCV for image handling.
+scikit-learn   --> Used for train-test splitting and evaluation metrics.
